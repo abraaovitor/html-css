@@ -3,4 +3,4 @@
 
  gerenciando repositórios
 
- <a href="https://abraaovitor.github.io/html-css/exrcicios/ex001/index.html">Executar o exercício 001</a>
+ <a href="https://abraaovitor.github.io/html-css/exercicios/ex001/index.html">Executar o exercício 001</a>
